@@ -25,17 +25,10 @@
 
 ---
 
-### 💬 Ask me about:
-- Building RESTful APIs
-- Making your web app mobile responsive
-- How to learn Full Stack from scratch
-- How to stay consistent coding while enjoying life 😄
-
----
 
 ### 📫 How to reach me:
 - 💌 Email: pereiraanngy@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/anngy-pereira-094aa026a](www.linkedin.com/in/anngy-pereira-094aa026a)
+- 💼 LinkedIn: [linkedin.com/in/angiepereir](www.linkedin.com/in/anngy-pereira-094aa026a)
 
 ---
 
