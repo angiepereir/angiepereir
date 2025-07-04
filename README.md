@@ -8,7 +8,6 @@
 
 - 🧠 Full Stack Developer | JavaScript, React, Node.js, Express, MongoDB
 - 🎓 Lifelong learner, always curious about new tech
-- 💻 Passionate about building intuitive UIs and robust backends
 - 🎨 I care about design, accessibility, and the end-user experience
 
 ---
@@ -20,17 +19,9 @@
 
 ---
 
-### 🌱 I’m currently learning:
-- TypeScript deeply
-- Docker & deployment with Render
-- Advanced testing with Jest & Cypress
-
----
-
 ### 👯 I’m looking to collaborate on:
 - Open-source front-end tools
 - Projects with real-world impact and beautiful UI/UX
-- EdTech, FemTech, and community-focused platforms
 
 ---
 
