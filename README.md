@@ -35,7 +35,7 @@
 
 ### 📫 How to reach me:
 - 💌 Email: pereiraanngy@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/angiepereir](https://www.linkedin.com/in/angiepereir)
+- 💼 LinkedIn: [www.linkedin.com/in/anngy-pereira-094aa026a](www.linkedin.com/in/anngy-pereira-094aa026a)
 
 ---
 
