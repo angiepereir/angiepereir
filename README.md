@@ -34,8 +34,7 @@
 ---
 
 ### 📫 How to reach me:
-- 💌 Email: angelica.devmail@example.com *(reemplaza esto con tu correo)*
-- 🌐 Portfolio: [angelicapereira.dev](https://angelicapereira.dev)
+- 💌 Email: pereiraanngy@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/angiepereir](https://www.linkedin.com/in/angiepereir)
 
 ---
