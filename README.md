@@ -19,11 +19,7 @@
 
 ---
 
-### 👯 I’m looking to collaborate on:
-- Open-source front-end tools
-- Projects with real-world impact and beautiful UI/UX
 
----
 
 
 ### 📫 How to reach me:
